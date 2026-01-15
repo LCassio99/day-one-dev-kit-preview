@@ -1,5 +1,7 @@
 # Day One Dev Kit (Preview)
 
+> A tiny starter kit to help developers define their first feature and actually start building.
+
 Most side projects don’t fail because of bad code.
 
 They fail before the first real feature.
@@ -41,3 +43,4 @@ The complete Day One Dev Kit includes:
 
 👉 **Get the full kit here:**  
 [https://lucianocassio.gumroad.com/l/dzgsna]
+
