@@ -1,5 +1,13 @@
 # Day One Dev Kit (Preview)
 
+⚠️ This is a preview.
+
+If you’re currently stuck on day one of a project,
+the full kit goes deeper and helps you move forward.
+
+👉 **Get the full kit here:**  
+[https://lucianocassio.gumroad.com/l/dzgsna]
+
 > A tiny starter kit to help developers define their first feature and actually start building.
 
 Most side projects don’t fail because of bad code.
@@ -43,4 +51,5 @@ The complete Day One Dev Kit includes:
 
 👉 **Get the full kit here:**  
 [https://lucianocassio.gumroad.com/l/dzgsna]
+
 
